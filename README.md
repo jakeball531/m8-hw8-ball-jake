@@ -54,3 +54,9 @@ Please submit both a link to your repository and a link to the live site. Also p
 * [CSS transitions on W3 Schools](https://www.w3schools.com/css/css3_transitions.asp)
 * [CSS animations on W3 Schools](https://www.w3schools.com/css/css3_animations.asp)
 * [An Interactive Guide to CSS Transitions by Josh W Comeau](https://www.joshwcomeau.com/animation/css-transitions/)
+
+
+
+
+## Notes
+I didnt face any significant challenges with the assignment. Everything was pretty straightforward.
